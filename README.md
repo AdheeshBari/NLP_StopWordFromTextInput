@@ -7,5 +7,4 @@ Steps:
 2. Tokenization: Prompts the user to input text, then tokenizes the text into sentences and words using sent_tokenize and word_tokenize.
 3. Stop Word Filtering: Defines English stop words and filters them out from the word tokens. Outputs both the filtered word tokens (excluding stop words) and the list of removed stop words.
 Examples: For input text, the script outputs sentence tokens, word tokens, filtered tokens, and removed stop words for easy reference.
-
 This code helps in basic text preprocessing tasks, useful for Natural Language Processing (NLP) applications.
